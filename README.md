@@ -1,3 +1,5 @@
+https://dzone.com/articles/how-to-deploy-restful-apis-using-node-express-4-an
+
 This is a simple microservices example that uses Node.js + Express to provide a simple Product Quantities Service for tracking onhand inventories of products. Docker support is included for running locally or deploying to services such as [Cloud66](https://www.cloud66.com)
 
 __Note:__ This isn't production-ready code. The service assumes no Mongo username/password, doesn't force SSL, or enforce security best practices. This is for demonstration and learning purposes only. 
